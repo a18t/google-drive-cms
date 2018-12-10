@@ -1,7 +1,6 @@
 # Google Drive CMS
 
-### No longer maintained
-Sadly I don't have the time to maintain this project. It still works well, but I don't have the free time to support it. I would also recommend projects like [Prismic.io](https://prismic.io/) and [Contentful](https://www.contentful.com/) that tackle similar problems.
+### Forked from [max-barry/google-drive-cms](https://github.com/max-barry/google-drive-cms)
 
 ---
 
